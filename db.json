@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "url": "./img/starwars1.png",
+      "name": "Starwars Cup",
+      "price": "60.00",
+      "category": "starwars",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "1"
+    },
+    {
+      "url": "./img/starwars2.png",
+      "name": "Black Helmet",
+      "price": "60.00",
+      "category": "starwars",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "2"
+    },
+    {
+      "url": "./img/starwars3.png",
+      "name": "Yoda Big",
+      "price": "60.00",
+      "category": "starwars",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "3"
+    },
+    {
+      "url": "./img/starwars4.png",
+      "name": "Stormtropper",
+      "price": "60.00",
+      "category": "starwars",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "4"
+    },
+    {
+      "url": "./img/starwars5.png",
+      "name": "Yoda 2",
+      "price": "60.00",
+      "category": "starwars",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "5"
+    },
+    {
+      "url": "./img/starwars6.png",
+      "name": "Doll",
+      "price": "60.00",
+      "category": "starwars",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "6"
+    },
+    {
+      "url": "./img/console1.png",
+      "name": "Xbox Joystick",
+      "price": "60.00",
+      "category": "console",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "7"
+    },
+    {
+      "url": "./img/console2.png",
+      "name": "Ps5",
+      "price": "60.00",
+      "category": "console",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "8"
+    },
+    {
+      "url": "./img/console3.png",
+      "name": "Nintendo",
+      "price": "60.00",
+      "category": "console",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "9"
+    },
+    {
+      "url": "./img/console4.png",
+      "name": "Nintendo Switch",
+      "price": "60.00",
+      "category": "console",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "10"
+    },
+    {
+      "url": "./img/console5.png",
+      "name": "Xbox Console",
+      "price": "60.00",
+      "category": "console",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "11"
+    },
+    {
+      "url": "./img/console6.png",
+      "name": "Gameboy",
+      "price": "60.00",
+      "category": "console",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "12"
+    },
+    {
+      "url": "./img/various1.png",
+      "name": "Atari tshirt",
+      "price": "60.00",
+      "category": "various",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "13"
+    },
+    {
+      "url": "./img/various2.png",
+      "name": "Constroler tshirt",
+      "price": "60.00",
+      "category": "various",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "14"
+    },
+    {
+      "url": "./img/various3.png",
+      "name": "Sega Mini",
+      "price": "60.00",
+      "category": "various",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "15"
+    },
+    {
+      "url": "./img/various4.png",
+      "name": "Producto XYZ",
+      "price": "60.00",
+      "category": "various",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "16"
+    },
+    {
+      "url": "./img/various5.png",
+      "name": "Virtual Reality console",
+      "price": "60.00",
+      "category": "various",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "17"
+    },
+    {
+      "url": "./img/various6.png",
+      "name": "Picachu Doll",
+      "price": "60.00",
+      "category": "various",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsums",
+      "id": "18"
+    }
+  ]
+}
